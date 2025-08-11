@@ -30,4 +30,4 @@ A STYLED AND INTERACTIVE MULTI-PAGE INTERFACE FOR AN E-LEARNING PLATFORM THAT AL
 
 *OUTPUT*
 
-<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/9cac4ade-15c9-4405-9756-f089353f1c59" />
+
